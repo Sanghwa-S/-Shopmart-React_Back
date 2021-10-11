@@ -45,13 +45,13 @@ The endpoint above returns a specific product based on the id in the mongoDB dat
 
 The endpoint above creates a new product in the mongoDB database using json. The fields include:
 
-- pName(*)
-- price(*)
-- pDescription
-- pCategory(*)
-- pQuantity
-- bestseller(*)
-- photo
+- prodcutName(*)
+- productPrice(*)
+- prdouctDescription
+- productCateogry(*)
+- productQuantity
+- productBestSeller(*)
+- prodcutPhotoURL
 
 ("*") = required
 
