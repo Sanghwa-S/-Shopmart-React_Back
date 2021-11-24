@@ -1,4 +1,4 @@
-# Web422 Assignment 1: Restful API (Users and products)
+# Web422 Assignment Shopmart for Backend 
 
 This is a simple RESTful API that allows client applications to create, read, update, and delete products from the database
 
